@@ -80,7 +80,7 @@ function Login() {
             <div className="flex items-center justify-between">
               <button
                 type="submit"
-                className="bg-purple-500 hover:bg-purple-700 text-white font-bold py-3 px-6 rounded-lg focus:outline-none focus:shadow-outline transition duration-300 ease-in-out transform hover:-translate-y-1"
+                className="bg-purple-500 hover:bg-purple-700 text-white font-bold py-3 px-6 rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-500 focus:ring-offset-2 transition duration-300 ease-in-out transform hover:-translate-y-1"
               >
                 Se connecter
               </button>

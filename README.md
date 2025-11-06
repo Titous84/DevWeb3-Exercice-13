@@ -8,6 +8,7 @@ Cette mini-application React démontre comment protéger une interface ainsi qu'
 - Conservation du jeton Firebase et protection des routes côté client
 - Appels HTTP vers l'API du projet intégrateur avec ajout automatique du jeton `Bearer`
 - Liste d'utilisateurs protégée, disponible uniquement après authentification
+- Interface entièrement stylisée avec Tailwind CSS
 
 ## Prérequis
 
